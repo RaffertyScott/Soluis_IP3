@@ -22,15 +22,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "MegascansPlugin",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		},
-		{
 			"Name": "EdddisonPlugin",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/804369d3542644cf96c5c6c53d7085ef"
